@@ -3,8 +3,6 @@
 An auto clicker made entirely in python
 
 To-do
-* Add an option to remove a background in a png 🔳
 * optimize code ✔
-* new GUI ✔
+* new GUI 🔳
 * link website to button ✔
-* turn jpg/png to ico 🔳
